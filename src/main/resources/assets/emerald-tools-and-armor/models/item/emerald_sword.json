@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "emerald-tools-and-armor:item/emerald_sword"
+  }
+}
