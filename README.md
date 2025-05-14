@@ -4,12 +4,12 @@
 
 ## 🔨 O que este mod adiciona?
 
-- Espada de esmeralda
-- Picareta de esmeralda
-- Pá de esmeralda
-- Machado de esmeralda
-- Enxada de esmeralda
-- Conjunto completo de armadura de esmeralda
+- Espada de esmeralda  
+- Picareta de esmeralda  
+- Pá de esmeralda  
+- Machado de esmeralda  
+- Enxada de esmeralda  
+- Conjunto completo de armadura de esmeralda  
 
 As ferramentas de esmeralda têm durabilidade e eficiência **superiores ao ferro**, mas **inferiores ao diamante** — oferecendo uma opção intermediária para os jogadores.
 
@@ -17,9 +17,9 @@ As ferramentas de esmeralda têm durabilidade e eficiência **superiores ao ferr
 
 ## 🧪 Compatibilidade
 
-- Versão do Minecraft: `1.21.1`
-- ModLoader: [`Fabric`](https://fabricmc.net/)
-- Requer [`Fabric API`](https://modrinth.com/mod/fabric-api)
+- Versão do Minecraft: `1.21.1`  
+- ModLoader: [`Fabric`](https://fabricmc.net/)  
+- Requer [`Fabric API`](https://modrinth.com/mod/fabric-api)  
 
 ---
 
@@ -42,7 +42,9 @@ As ferramentas de esmeralda têm durabilidade e eficiência **superiores ao ferr
 
 ## 📜 Licença
 
-Este mod é distribuído sob a licença **[MIT](LICENSE)** — fique à vontade para usar, modificar ou contribuir!
+Este projeto está licenciado sob a **Creative Commons CC0 1.0 Universal**.  
+Você pode copiar, modificar, distribuir e usar o mod livremente, sem necessidade de atribuição.  
+Para mais informações, veja o arquivo [`LICENSE`](LICENSE).
 
 ---
 
@@ -55,4 +57,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir *issues*, enviar
 ## 🧠 Autor
 
 Criado com 💚 por **Hyan Ferreira**
-
